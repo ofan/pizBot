@@ -2,6 +2,6 @@ This is an irc bot written in python.
 Still heavily in development.
 
 Usage:
-1.Config config.py
+1.Modify config.py
 2.Run bot.py
 
